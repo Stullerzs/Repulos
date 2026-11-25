@@ -1,0 +1,382 @@
+{
+    "1A": {
+        "class": "Business",
+        "is_booked": true,
+        "passenger": "Lakatos Ahelandro testvér"
+    },
+    "2A": {
+        "class": "Business",
+        "is_booked": true,
+        "passenger": "Lakatos Ahelandro testvér"
+    },
+    "3A": {
+        "class": "Economy",
+        "is_booked": true,
+        "passenger": "Lakatos Ahelandro testvér"
+    },
+    "4A": {
+        "class": "Economy",
+        "is_booked": true,
+        "passenger": "Lakatos Ahelandro testvér"
+    },
+    "5A": {
+        "class": "Economy",
+        "is_booked": true,
+        "passenger": "Lakatos Ahelandro testvér"
+    },
+    "6A": {
+        "class": "Economy",
+        "is_booked": false,
+        "passenger": "Nincs utas"
+    },
+    "7A": {
+        "class": "Economy",
+        "is_booked": false,
+        "passenger": "Nincs utas"
+    },
+    "8A": {
+        "class": "Economy",
+        "is_booked": false,
+        "passenger": "Nincs utas"
+    },
+    "9A": {
+        "class": "Economy",
+        "is_booked": false,
+        "passenger": "Nincs utas"
+    },
+    "10A": {
+        "class": "Economy",
+        "is_booked": false,
+        "passenger": "Nincs utas"
+    },
+    "11A": {
+        "class": "Economy",
+        "is_booked": false,
+        "passenger": "Nincs utas"
+    },
+    "12A": {
+        "class": "Economy",
+        "is_booked": false,
+        "passenger": "Nincs utas"
+    },
+    "13A": {
+        "class": "Economy",
+        "is_booked": false,
+        "passenger": "Nincs utas"
+    },
+    "14A": {
+        "class": "Economy",
+        "is_booked": false,
+        "passenger": "Nincs utas"
+    },
+    "15A": {
+        "class": "Economy",
+        "is_booked": false,
+        "passenger": "Nincs utas"
+    },
+    "16A": {
+        "class": "Economy",
+        "is_booked": false,
+        "passenger": "Nincs utas"
+    },
+    "17A": {
+        "class": "Economy",
+        "is_booked": false,
+        "passenger": "Nincs utas"
+    },
+    "18A": {
+        "class": "Economy",
+        "is_booked": false,
+        "passenger": "Nincs utas"
+    },
+    "19A": {
+        "class": "Economy",
+        "is_booked": false,
+        "passenger": "Nincs utas"
+    },
+    "1B": {
+        "class": "Business",
+        "is_booked": true,
+        "passenger": "Lakatos Ahelandro testvér"
+    },
+    "2B": {
+        "class": "Business",
+        "is_booked": true,
+        "passenger": "Lakatos Ahelandro testvér"
+    },
+    "3B": {
+        "class": "Economy",
+        "is_booked": true,
+        "passenger": "Lakatos Ahelandro testvér"
+    },
+    "4B": {
+        "class": "Economy",
+        "is_booked": true,
+        "passenger": "Lakatos Ahelandro testvér"
+    },
+    "5B": {
+        "class": "Economy",
+        "is_booked": true,
+        "passenger": "Lakatos Ahelandro testvér"
+    },
+    "6B": {
+        "class": "Economy",
+        "is_booked": true,
+        "passenger": "Lakatos Ahelandro testvér"
+    },
+    "7B": {
+        "class": "Economy",
+        "is_booked": false,
+        "passenger": "Nincs utas"
+    },
+    "8B": {
+        "class": "Economy",
+        "is_booked": false,
+        "passenger": "Nincs utas"
+    },
+    "9B": {
+        "class": "Economy",
+        "is_booked": false,
+        "passenger": "Nincs utas"
+    },
+    "10B": {
+        "class": "Economy",
+        "is_booked": false,
+        "passenger": "Nincs utas"
+    },
+    "11B": {
+        "class": "Economy",
+        "is_booked": false,
+        "passenger": "Nincs utas"
+    },
+    "12B": {
+        "class": "Economy",
+        "is_booked": false,
+        "passenger": "Nincs utas"
+    },
+    "13B": {
+        "class": "Economy",
+        "is_booked": false,
+        "passenger": "Nincs utas"
+    },
+    "14B": {
+        "class": "Economy",
+        "is_booked": true,
+        "passenger": "Lakatos Ahelandro testvér"
+    },
+    "15B": {
+        "class": "Economy",
+        "is_booked": false,
+        "passenger": "Nincs utas"
+    },
+    "16B": {
+        "class": "Economy",
+        "is_booked": false,
+        "passenger": "Nincs utas"
+    },
+    "17B": {
+        "class": "Economy",
+        "is_booked": false,
+        "passenger": "Nincs utas"
+    },
+    "18B": {
+        "class": "Economy",
+        "is_booked": false,
+        "passenger": "Nincs utas"
+    },
+    "19B": {
+        "class": "Economy",
+        "is_booked": true,
+        "passenger": "Lakatos Ahelandro testvér"
+    },
+    "1C": {
+        "class": "Business",
+        "is_booked": true,
+        "passenger": "Lakatos Ahelandro testvér"
+    },
+    "2C": {
+        "class": "Business",
+        "is_booked": true,
+        "passenger": "Lakatos Ahelandro testvér"
+    },
+    "3C": {
+        "class": "Economy",
+        "is_booked": true,
+        "passenger": "Lakatos Ahelandro testvér"
+    },
+    "4C": {
+        "class": "Economy",
+        "is_booked": true,
+        "passenger": "Lakatos Ahelandro testvér"
+    },
+    "5C": {
+        "class": "Economy",
+        "is_booked": true,
+        "passenger": "Lakatos Ahelandro testvér"
+    },
+    "6C": {
+        "class": "Economy",
+        "is_booked": true,
+        "passenger": "Szabó Máté Krisztián"
+    },
+    "7C": {
+        "class": "Economy",
+        "is_booked": false,
+        "passenger": "Nincs utas"
+    },
+    "8C": {
+        "class": "Economy",
+        "is_booked": false,
+        "passenger": "Nincs utas"
+    },
+    "9C": {
+        "class": "Economy",
+        "is_booked": false,
+        "passenger": "Nincs utas"
+    },
+    "10C": {
+        "class": "Economy",
+        "is_booked": true,
+        "passenger": "Lakatos Ahelandro testvér"
+    },
+    "11C": {
+        "class": "Economy",
+        "is_booked": false,
+        "passenger": "Nincs utas"
+    },
+    "12C": {
+        "class": "Economy",
+        "is_booked": false,
+        "passenger": "Nincs utas"
+    },
+    "13C": {
+        "class": "Economy",
+        "is_booked": true,
+        "passenger": "Lakatos Ahelandro testvér"
+    },
+    "14C": {
+        "class": "Economy",
+        "is_booked": false,
+        "passenger": "Nincs utas"
+    },
+    "15C": {
+        "class": "Economy",
+        "is_booked": false,
+        "passenger": "Nincs utas"
+    },
+    "16C": {
+        "class": "Economy",
+        "is_booked": false,
+        "passenger": "Nincs utas"
+    },
+    "17C": {
+        "class": "Economy",
+        "is_booked": false,
+        "passenger": "Nincs utas"
+    },
+    "18C": {
+        "class": "Economy",
+        "is_booked": false,
+        "passenger": "Nincs utas"
+    },
+    "19C": {
+        "class": "Economy",
+        "is_booked": false,
+        "passenger": "Nincs utas"
+    },
+    "1D": {
+        "class": "Business",
+        "is_booked": true,
+        "passenger": "Lakatos Ahelandro testvér"
+    },
+    "2D": {
+        "class": "Business",
+        "is_booked": true,
+        "passenger": "Lakatos Ahelandro testvér"
+    },
+    "3D": {
+        "class": "Economy",
+        "is_booked": true,
+        "passenger": "Lakatos Ahelandro testvér"
+    },
+    "4D": {
+        "class": "Economy",
+        "is_booked": true,
+        "passenger": "Lakatos Ahelandro testvér"
+    },
+    "5D": {
+        "class": "Economy",
+        "is_booked": true,
+        "passenger": "Lakatos Ahelandro testvér"
+    },
+    "6D": {
+        "class": "Economy",
+        "is_booked": true,
+        "passenger": ""
+    },
+    "7D": {
+        "class": "Economy",
+        "is_booked": true,
+        "passenger": "Lakatos Ahelandro testvér"
+    },
+    "8D": {
+        "class": "Economy",
+        "is_booked": false,
+        "passenger": "Nincs utas"
+    },
+    "9D": {
+        "class": "Economy",
+        "is_booked": false,
+        "passenger": "Nincs utas"
+    },
+    "10D": {
+        "class": "Economy",
+        "is_booked": false,
+        "passenger": "Nincs utas"
+    },
+    "11D": {
+        "class": "Economy",
+        "is_booked": false,
+        "passenger": "Nincs utas"
+    },
+    "12D": {
+        "class": "Economy",
+        "is_booked": false,
+        "passenger": "Nincs utas"
+    },
+    "13D": {
+        "class": "Economy",
+        "is_booked": true,
+        "passenger": "Lakatos Ahelandro testvér"
+    },
+    "14D": {
+        "class": "Economy",
+        "is_booked": true,
+        "passenger": "Lakatos Ahelandro testvér"
+    },
+    "15D": {
+        "class": "Economy",
+        "is_booked": false,
+        "passenger": "Nincs utas"
+    },
+    "16D": {
+        "class": "Economy",
+        "is_booked": false,
+        "passenger": "Nincs utas"
+    },
+    "17D": {
+        "class": "Economy",
+        "is_booked": false,
+        "passenger": "Nincs utas"
+    },
+    "18D": {
+        "class": "Economy",
+        "is_booked": false,
+        "passenger": "Nincs utas"
+    },
+    "19D": {
+        "class": "Economy",
+        "is_booked": false,
+        "passenger": "Nincs utas"
+    }
+}
